@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Pooriadf Skills Plugin Icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="20" fill="url(#bg)"/>
+  <path d="M34 72c0-10 8-18 18-18h24v12H52a6 6 0 1 0 0 12h18c13.3 0 24 10.7 24 24v2H82v-2c0-6.6-5.4-12-12-12H52c-10 0-18-8-18-18Z" fill="#fff"/>
+  <circle cx="88" cy="40" r="14" fill="#93c5fd"/>
+</svg>
