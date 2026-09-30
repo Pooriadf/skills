@@ -1,1 +1,10 @@
-{"name":"skills"}
+{
+  "name": "pooriadf-skills",
+  "version": "1.0.0",
+  "description": "A starter Claude plugin scaffold for experimenting with reusable skills.",
+  "author": {
+    "name": "Pooriadf"
+  },
+  "license": "MIT",
+  "icon": "icon.svg"
+}
